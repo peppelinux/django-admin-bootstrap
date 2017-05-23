@@ -8,12 +8,12 @@ f.close()
 
 setup(
     name='bootstrap_admin',
-    version='0.3.7.1',
+    version='0.4',
     description='Responsive Theme for Django Admin (Django 1.7)',
     long_description=readme,
-    author='Douglas Miranda',
-    author_email='douglasmirandasilva@gmail.com',
-    url='https://github.com/douglasmiranda/django-admin-bootstrap',
+    author='Giuseppe De Marco',
+    author_email='demarcog83@gmail.com',
+    url='https://github.com/peppelinux/django-admin-bootstrap',
     license='BSD',
     packages=find_packages(),
     include_package_data=True,

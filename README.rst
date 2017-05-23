@@ -1,4 +1,4 @@
-Responsive Theme for Django Admin (Django 1.7+)
+Responsive Theme for Django Admin
 ===============================================
 
 Ingredients
